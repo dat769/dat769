@@ -13,4 +13,4 @@ My educational journey has ignited a passion for data, driving me to use it effe
 
 ## Projects
 - [New Wheels SQL Project](https://github.com/dat769/SQLNewWheelsProject)
-- [FoodHub Python Project]
+- [FoodHub Python Project] (https://github.com/dat769/FoodHubOrderAnalysisUsingPython/tree/main)
